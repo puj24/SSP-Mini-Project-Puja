@@ -33,6 +33,6 @@ Attempt to simulate the issue, if time permits.
 Getting Started: Contact your mentor. Get the software installed on your laptop. Read up on basics of digital circuits.
 
 ## Links:
-> https://www.pling.org.uk/cs/idd.html
-> https://www.nandland.com/verilog/tutorials/index.html
-> Vivado Tutorial - https://www.youtube.com/playlist?list=PL_Nji0JOuXg0_N0ba-pGABeabXdcfQYtJ
+> * https://www.pling.org.uk/cs/idd.html
+> * https://www.nandland.com/verilog/tutorials/index.html
+> * Vivado Tutorial - https://www.youtube.com/playlist?list=PL_Nji0JOuXg0_N0ba-pGABeabXdcfQYtJ
